@@ -1,0 +1,10 @@
+[Desktop Entry]
+Version=1.0
+Type=Application
+Name=OGPSSpoofChk
+Comment=GPS/GNSS spoofing detector — offline NMEA/pcap analysis (teleport, C/N0, timing)
+Exec=OGPSSpoofChk
+Icon=/usr/share/icons/Owl.png
+Terminal=true
+Categories=OWireless;
+Keywords=OGPSSpoofChk;owlsec;security;gps;gnss;nmea;spoof;
